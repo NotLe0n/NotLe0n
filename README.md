@@ -7,3 +7,5 @@ These are some of the projects I have worked on:
 
 ### Some fun stats:
 [![NotLe0ns's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLe0n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![](./image.svg)
