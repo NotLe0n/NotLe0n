@@ -10,4 +10,4 @@ These are some of the projects I have worked on:
 
 ![card](https://user-images.githubusercontent.com/26361108/115155388-0da35c80-a080-11eb-847d-54378a7569cd.png)
 
-![](https://dynamicstatstest.thelonelysheep.repl.co)
+![](https://dynamic-tml-stats.vercel.app/)
