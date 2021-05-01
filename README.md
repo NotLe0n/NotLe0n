@@ -10,6 +10,4 @@ These are some of the projects I have worked on:
 ### Some fun stats:
 [![NotLe0ns's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLe0n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![card](https://user-images.githubusercontent.com/26361108/115155388-0da35c80-a080-11eb-847d-54378a7569cd.png)
-
-(this is just an image, so it's outdated. I tried to make it update [dynamically](https://github.com/NotLe0n/DynamicTMLStats), but I'm bad at JS)
+![card](https://dynamictmlstats.repl.co/?steamid64=76561198278789341)
