@@ -4,8 +4,8 @@ These are some of the projects I have worked on:
 - [UIGenerator](https://github.com/NotLe0n/UIGenerator)
 - [Test Platformer](https://github.com/bafto/Platformer) with a [Level Editor](https://github.com/NotLe0n/LevelEditor)
 - [ModStatistics](https://github.com/NotLe0n/ModStats) (defunct)
-- [tmlAPI](https://github.com/NotLe0n/tmlapis) (gave up; pls help)
-- [DynamicTMLStats](https://github.com/NotLe0n/DynamicTMLStats) (also gave up)
+- [tmlAPI](https://github.com/NotLe0n/tmlapis)
+- [DynamicTMLStats](https://github.com/NotLe0n/DynamicTMLStats) (thanks bafto)
 
 ### Some fun stats:
 [![NotLe0ns's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLe0n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
