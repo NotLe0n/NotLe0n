@@ -10,4 +10,4 @@ These are some of the projects I have worked on:
 
 ### Some fun stats:
 [![NotLe0ns's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLe0n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![card](https://dynamictmlstats.repl.co/?steamid64=76561198278789341s)
+![card](https://dynamictmlstats.repl.co/?steamid64=76561198278789341d)
