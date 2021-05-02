@@ -1,6 +1,5 @@
 name: Update GitHub Profile README
 on:
-  push:
   schedule:
     - cron: "* * * * *" 
 jobs:
