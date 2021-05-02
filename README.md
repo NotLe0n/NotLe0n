@@ -9,7 +9,7 @@ These are some of the projects I have worked on:
 - [DynamicTMLStats](https://github.com/NotLe0n/DynamicTMLStats) (thanks [@bafto](https://github.com/bafto))
 ### Some fun stats:
 [![NotLe0ns's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLe0n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![card](https://dynamictmlstats.repl.co/?steamid64=76561198278789341)
+![card](https://dynamictmlstats.repl.co/?steamid64=76561198278789341s)
 
 ---
 
