@@ -4,7 +4,7 @@ These are some of the projects I have worked on:
 - [Terraria mods](https://github.com/users/NotLe0n/projects/2)
 - [UIGenerator](https://github.com/NotLe0n/UIGenerator)
 - [Test Platformer](https://github.com/bafto/Platformer) with a [Level Editor](https://github.com/NotLe0n/LevelEditor)
-- [ModStatistics](https://github.com/NotLe0n/ModStats) (defunct)
+- [ModStatistics](https://github.com/NotLe0n/ModStats)
 - [tmlAPI](https://github.com/NotLe0n/tmlapis) (orig by me, rewritten in Go by [@bafto](https://github.com/bafto))
 - [DynamicTMLStats](https://github.com/NotLe0n/DynamicTMLStats) (thanks [@bafto](https://github.com/bafto))
 
