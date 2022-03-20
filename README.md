@@ -2,14 +2,16 @@
 
 These are some of the projects I have worked on: 
 - [Terraria mods](https://github.com/users/NotLe0n/projects/2)
+- [Die Deutsche Programmiersprache](https://github.com/NotLe0n/Die-Deutsche-Programmiersprache)
 - [UIGenerator](https://github.com/NotLe0n/UIGenerator)
-- [Test Platformer](https://github.com/bafto/Platformer) with a [Level Editor](https://github.com/NotLe0n/LevelEditor)
 - [ModStatistics](https://github.com/NotLe0n/ModStats)
 - [tmlAPI](https://github.com/NotLe0n/tmlapis) (orig by me, rewritten in Go by [@bafto](https://github.com/bafto))
 - [DynamicTMLStats](https://github.com/NotLe0n/DynamicTMLStats) (thanks [@bafto](https://github.com/bafto))
 - [Leon's Game of life](https://github.com/NotLe0n/LeonsGameOfLife)
-- [Die Deutsche Programmiersprache](https://github.com/NotLe0n/Die-Deutsche-Programmiersprache)
-- [Subnetter](https://github.com/NotLe0n/Subnetter)
+- Smaller projects like: [Subnetter](https://github.com/NotLe0n/Subnetter), [Offline Chat](https://github.com/NotLe0n/OfflineChat), [QR-Code Scanner](https://github.com/NotLe0n/QRCodeScanner) or [Curve Painter](https://github.com/NotLe0n/CurvePainter)
+
+I have also contributed to these repositories:
+- [tModLoader](https://github.com/tModLoader/tModLoader)
 
 ### Some fun stats:
 [![NotLe0ns's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLe0n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
