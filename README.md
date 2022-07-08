@@ -14,6 +14,12 @@ I have also contributed to these repositories:
 - [tModLoader](https://github.com/tModLoader/tModLoader)
 
 ### Some fun stats:
-[![NotLe0ns's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotLe0n&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://dynamictmlstats.repl.co/?steamid64=76561198278789341)](https://modstats.repl.co/stats?author=76561198278789341)
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotLe0n&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;langs_count=10">
+  <br clear="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NotLe0n&amp;show_icons=true&amp;theme=tokyonight">
+  <br clear="left"/>
+  <a href="https://modstats.repl.co/stats?author=76561198278789341"><img src="https://dynamictmlstats.repl.co/?steamid64=76561198278789341" width="50%"></a>
+</div>
+
 Click the image for a up to date stats
