@@ -20,4 +20,4 @@ I have also contributed to these repositories:
   <a href="https://modstats.repl.co/stats?author=76561198278789341"><img src="https://dynamictmlstats.repl.co/?steamid64=76561198278789341" width="50%"></a>
 </div>
 
-Click the image for a up to date stats
+Click the image for up to date stats
