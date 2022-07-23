@@ -12,7 +12,7 @@ I have also contributed to these repositories:
 - [tModLoader](https://github.com/tModLoader/tModLoader)
 
 ### Some fun stats:
-||||
+|Most used programmming languages|Github stats|tModloader stats|
 |-|-|-|
 |<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotLe0n&amp;count_private=true&amp;show_icons=true&amp;theme=dark&amp;langs_count=10&amp;layout=compact">|<img src="https://github-readme-stats.vercel.app/api?username=NotLe0n&amp;show_icons=true&amp;theme=tokyonight">|<a href="https://modstats.repl.co/stats?author=76561198278789341"><img src="https://dynamictmlstats.repl.co/?steamid64=76561198278789341"></a>|
 ||||
