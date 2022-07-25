@@ -16,7 +16,7 @@ I have also contributed to these repositories:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NotLe0n&amp;show_icons=true&amp;theme=github_dark&amp;border_radius=30" width="400vh">
   <br>
-  <a href="https://modstats.repl.co/stats?author=76561198278789341"><img src="https://dynamictmlstats.repl.co/?steamid64=76561198278789341&border_width=2&corner_radius=30&border_color=FFFFFF&bg_color=0D1117" width="400vw"></a>
+  <a href="https://modstats.repl.co/stats?author=76561198278789341"><img src="https://dynamictmlstats.repl.co/?steamid64=76561198278789341&border_width=1&corner_radius=60&border_color=FFFFFF&bg_color=0D1117" width="400vw"></a>
 </p>
 
 Click the image for up to date stats
