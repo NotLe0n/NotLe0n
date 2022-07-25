@@ -12,7 +12,7 @@ I have also contributed to these repositories:
 - [tModLoader](https://github.com/tModLoader/tModLoader)
 
 ### Some fun stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotLe0n&amp;count_private=true&amp;show_icons=true&amp;theme=github_dark&amp;langs_count=10&amp;text_color=B2B2B2&amp;border_radius=30" width="300vh">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotLe0n&amp;count_private=true&amp;show_icons=true&amp;theme=github_dark&amp;langs_count=8&amp;text_color=B2B2B2&amp;border_radius=30" width="300vh">
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NotLe0n&amp;show_icons=true&amp;theme=github_dark&amp;border_radius=30" width="400vh">
   <br>
