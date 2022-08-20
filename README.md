@@ -3,6 +3,7 @@
 These are some of the projects I have worked on: 
 - [Terraria mods](https://github.com/users/NotLe0n/projects/2)
 - [Die Deutsche Programmiersprache](https://github.com/DDP-Projekt)
+- [Spiele Konsole](https://github.com/NotLe0n/PAR-SpieleKonsole)
 - [UIGenerator](https://github.com/NotLe0n/UIGenerator)
 - [ModStatistics](https://github.com/NotLe0n/ModStats), [tmlAPI](https://github.com/NotLe0n/tmlapis), [DynamicTMLStats](https://github.com/NotLe0n/DynamicTMLStats) (ft. [@bafto](https://github.com/bafto))
 - [Leon's Game of life](https://github.com/NotLe0n/LeonsGameOfLife)
