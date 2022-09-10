@@ -1,4 +1,4 @@
-## Hi I'm Leon, or am I?
+## Hi I'm Leon, or am I? <img align=right src="https://komarev.com/ghpvc/?username=Cyrillya&style=for-the-badge">
 
 These are some of the projects I have worked on: 
 - [Terraria mods](https://github.com/users/NotLe0n/projects/2)
