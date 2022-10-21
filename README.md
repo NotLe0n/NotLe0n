@@ -5,7 +5,7 @@ These are some of the projects I have worked on:
 - [Die Deutsche Programmiersprache](https://github.com/DDP-Projekt)
 - [Spiele Konsole](https://github.com/NotLe0n/PAR-SpieleKonsole)
 - [UIGenerator](https://github.com/NotLe0n/UIGenerator)
-- [ModStatistics](https://github.com/NotLe0n/ModStats), [tmlAPI](https://github.com/NotLe0n/tmlapis), [DynamicTMLStats](https://github.com/NotLe0n/DynamicTMLStats) (ft. [@bafto](https://github.com/bafto))
+- [ModStatistics](https://github.com/NotLe0n/ModStats), [tmlAPI](https://github.com/NotLe0n/tMLAPIs), [tml-readme-card](https://github.com/NotLe0n/tml-readme-card) (ft. [@bafto](https://github.com/bafto))
 - [hello-x](https://github.com/NotLe0n/hello-x)
 - Smaller projects like: [Subnetter](https://github.com/NotLe0n/Subnetter), [Leon's Game of life](https://github.com/NotLe0n/LeonsGameOfLife), [QR-Code Scanner](https://github.com/NotLe0n/QRCodeScanner), [youtube-downloader](https://github.com/NotLe0n/youtube-downloader) or [Curve Painter](https://github.com/NotLe0n/CurvePainter)
 
