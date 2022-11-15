@@ -11,6 +11,7 @@ Some the projects I have worked on include but are not limited to:
 
 I have also contributed to these repositories:
 - [tModLoader](https://github.com/tModLoader/tModLoader)
+- [tModLoader-Discord-Bot](https://github.com/tModLoader/tModLoader-Discord-Bot)
 
 ### Some fun stats:
 <p align=center>
