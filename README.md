@@ -15,7 +15,7 @@ I have also contributed to these repositories:
 
 ### Some fun stats:
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotLe0n&count_private=true&show_icons=true&theme=github_dark&langs_count=8&text_color=B2B2B2&border_radius=25&layout=compact&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotLe0n&count_private=true&show_icons=true&theme=github_dark&langs_count=8&text_color=B2B2B2&border_radius=30&layout=compact&hide_title=true">
   <img src="https://github-readme-stats.vercel.app/api?username=NotLe0n&amp;show_icons=true&amp;theme=github_dark&amp;border_radius=30" width="400vh">
 </p>
 <p align=center>
