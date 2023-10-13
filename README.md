@@ -19,7 +19,7 @@ I have also contributed to these repositories:
   <img src="https://github-readme-stats.vercel.app/api?username=NotLe0n&amp;show_icons=true&amp;theme=github_dark&amp;border_radius=30&amp;hide_rank=true" width="250vh">
 </p>
 <p align=center>
-   <a href="https://modstats.repl.co/author/76561198278789341"><img src="https://tml-readme-card.repl.co/?steamid64=76561198278789341&border_width=1&corner_radius=60&border_color=FFFFFF&bg_color=0D1116&" width="300vw"></a>
-  <a href="https://modstats.repl.co/author/76561198278789341?legacy"><img src="https://tml-readme-card.repl.co/?steamid64=76561198278789341&border_width=1&corner_radius=60&border_color=FFFFFF&bg_color=0D1116&v=1.3" width="300vw"></a><br>
+   <a href="https://modstats.le0n.dev/author/76561198278789341"><img src="https://tml-card.le0n.dev/?steamid64=76561198278789341&border_width=1&corner_radius=60&border_color=FFFFFF&bg_color=0D1116&" width="300vw"></a>
+  <a href="https://modstats.le0n.dev/author/76561198278789341?legacy"><img src="https://tml-card.le0n.dev/?steamid64=76561198278789341&border_width=1&corner_radius=60&border_color=FFFFFF&bg_color=0D1116&v=1.3" width="300vw"></a><br>
   Click the image for up to date stats
 </p>
