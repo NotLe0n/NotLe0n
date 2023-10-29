@@ -1,0 +1,63 @@
+baseurl      = "https://le0n.dev"
+title        = "home"
+languageCode = "en-US"
+theme        = "hello-friend-ng"
+paginate     = 15
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "NotLe0n"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Metadata mostly used in document's head
+  description = "NotLe0n's homepage"
+  keywords = "homepage"
+  images = [""]
+
+[params.favicon]
+  mask = "#2f2f2f"
+  msapplication = "#ffc40d"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "Leon Gies"
+
+  [languages.en.params]
+    subtitle  = "homepage"
+
+    [languages.en.params.logo]
+      path = "/icon.png"
+      alt = "Logo"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
+
+  [[menu.main]]
+    identifier = "mods"
+    name       = "Mods"
+    url        = "/mods"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/NotLe0n"
