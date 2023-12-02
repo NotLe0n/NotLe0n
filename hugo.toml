@@ -49,14 +49,21 @@ paginate     = 15
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "projects"
-    name       = "Projects"
-    url        = "/projects"
-
+    identifier = "modstats"
+    name       = "ModStats"
+    url        = "https://modstats.le0n.dev/"
+  [[menu.main]]
+    identifier = "tmlapis"
+    name       = "tMLAPIs"
+    url        = "https://tmlapis.le0n.dev/"
   [[menu.main]]
     identifier = "mods"
     name       = "Mods"
-    url        = "/mods"
+    url        = "https://modstats.le0n.dev/author/NotLe0n"
+  [[menu.main]]
+    identifier = "ddp"
+    name       = "DDP"
+    url        = "https://ddp.le0n.dev/"
 
 [[params.social]]
   name = "github"
