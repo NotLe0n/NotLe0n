@@ -1,10 +1,11 @@
-## Hi I'm Leon, or am I? <img align=right src="https://komarev.com/ghpvc/?username=Cyrillya&style=for-the-badge">
+## Hi I'm Leon, or am I?
 
 Some the projects I have worked on include but are not limited to: 
 - [Terraria mods](https://github.com/users/NotLe0n/projects/2)
 - [Die Deutsche Programmiersprache](https://github.com/DDP-Projekt)
 - [Spiele Konsole](https://github.com/NotLe0n/PAR-SpieleKonsole)
 - [ModStatistics](https://github.com/NotLe0n/ModStats), [tMLAPIs](https://github.com/NotLe0n/tMLAPIs), [tML-readme-card](https://github.com/NotLe0n/tML-readme-card) (ft. [@bafto](https://github.com/bafto))
+- [Minesweeper](https://github.com/bafto/minesweeper) (overengineered scala implementation)
 - [UIGenerator](https://github.com/NotLe0n/UIGenerator)
 - [hello-x](https://github.com/NotLe0n/hello-x)
 - Smaller projects like: [Subnetter](https://github.com/NotLe0n/Subnetter), [Leon's Game of life](https://github.com/NotLe0n/LeonsGameOfLife), [QR-Code Scanner](https://github.com/NotLe0n/QRCodeScanner), [youtube-downloader](https://github.com/NotLe0n/youtube-downloader) or [Curve Painter](https://github.com/NotLe0n/CurvePainter)
