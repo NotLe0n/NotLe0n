@@ -63,7 +63,7 @@ paginate     = 15
   [[menu.main]]
     identifier = "ddp"
     name       = "DDP"
-    url        = "https://ddp.le0n.dev/"
+    url        = "https://ddp.im/"
 
 [[params.social]]
   name = "github"
