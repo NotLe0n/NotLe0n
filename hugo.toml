@@ -59,7 +59,7 @@ paginate     = 15
   [[menu.main]]
     identifier = "mods"
     name       = "Mods"
-    url        = "https://tmldb.le0n.dev/author/NotLe0n"
+    url        = "https://tmldb.le0n.dev/creator/NotLe0n"
   [[menu.main]]
     identifier = "ddp"
     name       = "DDP"
