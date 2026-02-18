@@ -4,7 +4,7 @@ Some the projects I have worked on include but are not limited to:
 - [Terraria mods](https://github.com/users/NotLe0n/projects/2)
 - [Die Deutsche Programmiersprache](https://github.com/DDP-Projekt)
 - [Spiele Konsole](https://github.com/NotLe0n/PAR-SpieleKonsole)
-- [ModStatistics](https://github.com/NotLe0n/ModStats), [tMLAPIs](https://github.com/NotLe0n/tMLAPIs), [tML-readme-card](https://github.com/NotLe0n/tML-readme-card) (ft. [@bafto](https://github.com/bafto))
+- [ModStatistics](https://github.com/NotLe0n/tMLDB), [tMLAPIs](https://github.com/NotLe0n/tMLAPIs), [tML-readme-card](https://github.com/NotLe0n/tML-readme-card)
 - [Minesweeper](https://github.com/bafto/minesweeper) (overengineered scala implementation)
 - [UIGenerator](https://github.com/NotLe0n/UIGenerator)
 - [hello-x](https://github.com/NotLe0n/hello-x)
