@@ -50,8 +50,8 @@ paginate     = 15
   # And you can even create generic menu
   [[menu.main]]
     identifier = "modstats"
-    name       = "ModStats"
-    url        = "https://modstats.le0n.dev/"
+    name       = "tMLDB"
+    url        = "https://tmldb.le0n.dev/"
   [[menu.main]]
     identifier = "tmlapis"
     name       = "tMLAPIs"
@@ -59,7 +59,7 @@ paginate     = 15
   [[menu.main]]
     identifier = "mods"
     name       = "Mods"
-    url        = "https://modstats.le0n.dev/author/NotLe0n"
+    url        = "https://tmldb.le0n.dev/author/NotLe0n"
   [[menu.main]]
     identifier = "ddp"
     name       = "DDP"
