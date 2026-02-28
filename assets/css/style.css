@@ -1,0 +1,171 @@
+@import url(reset.css);
+
+:root {
+    --logo-size: 44px;
+    --header-height: calc(var(--logo-size) + 40px);
+    --header-col: light-dark(#edeff1, #1b1c1d);
+    --hero-height: clamp(300px, calc(25vw - var(--header-height)), 600px);
+    --bg-col: light-dark(#fff, #232425);
+    --text-col: light-dark(#222, #a9a9b3);
+    color-scheme: dark light;
+}
+
+body {
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-feature-settings: "liga", "tnum", "case", "calt", "zero", "ss01", "locl";
+    
+    display: grid;
+    padding-top: var(--header-height);
+    grid-template-rows: 1fr auto;
+    background-color: var(--bg-col);
+    color: var(--text-col);
+}
+
+
+[data-theme=dark] .code-toolbar .toolbar-item a {
+    background: #3b3d42;
+    color: inherit
+}
+
+[data-theme=light] .code-toolbar .toolbar-item a {
+    background: #eaeaea
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: var(--header-height);
+
+    background-color: var(--header-col);
+}
+
+.header__inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 760px;
+    width: 100%;
+    padding: 0 2rem;
+}
+
+@media (max-width: 395px) {
+    .header__inner {
+        justify-content: center;
+    }
+    :root {
+        --header-height: 155px;
+    }
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+nav>ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    margin: 0;
+    padding: 0 15px;
+    list-style: none;
+    gap: 0.5rem 1.5rem;
+}
+
+nav a {
+    text-decoration: none;
+    transition: color 400ms ease;
+    &:hover {
+        color: lightblue;
+    }
+}
+
+main {
+    display: grid;
+    height: calc(100vh - var(--header-height));
+    overflow: auto;
+    
+    grid-template-rows: var(--hero-height) 1fr;
+    justify-content: center;
+}
+
+#profile {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+
+    --bg-tint: 0.35;
+    background: linear-gradient(
+      rgba(0, 0, 0, var(--bg-tint)),
+      rgba(0, 0, 0, var(--bg-tint))
+    ), url(/images/fpga.jpg) 50% 35% / cover no-repeat;
+    color: white;
+
+    h1, p {
+        margin: 0;
+        text-shadow: 0 0 10px black;
+    }
+}
+
+#github-link svg path {
+    transition: color 400ms ease;
+}
+
+#github-link:hover svg path {
+    color: lightblue;
+}
+
+#projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+#projects-container {
+    display: grid;
+    --min-width: 20rem;
+    grid-template-columns: repeat(auto-fill, minmax(var(--min-width), 1fr));
+    width: 80%;
+    gap: 0.5rem;
+
+    @media (max-width: 395px) {
+        --min-width: 15rem
+    }
+}
+
+.project-card {
+    display: grid;
+    grid-template-rows: 12rem 10rem;
+    border: #eaeaea 2px solid;
+    border-radius: 0.5rem;
+    text-wrap: pretty;
+    overflow: hidden;
+    text-decoration: none;
+    background-color: #3b3d42;
+}
+
+.project-card[href]:hover {
+    border-color: lightblue;
+    color: lightblue;
+}
+
+.project-card > img {
+    width: 100%;
+}
+
+.project-card-content {
+    padding: 0 1rem;
+    background-color: #3b3d42;
+}

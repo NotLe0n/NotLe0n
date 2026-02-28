@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang=en>
+
+<head>
+    <meta charset=utf-8>
+    <meta http-equiv=x-ua-compatible content="ie=edge">
+    <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <meta name=author content>
+    <meta name=description content="NotLe0n">
+    <meta name=keywords content="homepage">
+    <meta name=robots content="noodp">
+    <meta name=theme-color content>
+    <title>Leon Gies — homepage</title>
+
+    {{ with resources.Get "css/reset.css" }} {{ .Publish }} {{ end }}
+    {{ $css := resources.Get "css/style.css" | minify }}
+    <link rel="stylesheet" href={{ $css.Permalink }}>
+
+    <link rel="apple-touch-icon" sizes=180x180 href=/apple-touch-icon.png>
+    <link rel="icon" type=image/png sizes=32x32 href=/favicon-32x32.png>
+    <link rel="icon" type=image/png sizes=16x16 href=/favicon-16x16.png>
+    <link rel="manifest" href=/site.webmanifest>
+    <link rel="mask-icon" href=/safari-pinned-tab.svg color=#2f2f2f>
+    <link rel="shortcut icon" href=/favicon.ico>
+    <meta name="msapplication-TileColor" content="#ffc40d">
+
+    <meta itemprop="name" content="Leon Gies">
+    <meta itemprop="description" content="NotLe0n's homepage">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://le0n.dev/">
+    <meta name="twitter:title" content="Leon Gies">
+    <meta name="twitter:description" content="NotLe0n's homepage">
+
+    <meta property="og:title" content="Leon Gies">
+    <meta property="og:description" content="NotLe0n's homepage">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://le0n.dev/">
+    <meta property="og:image" content="https://le0n.dev/">
+
+    <link rel=alternate type=application/rss+xml href=https://le0n.dev/index.xml title="Leon Gies">
+
+    {{ with resources.Get "images/fpga.jpg" }} {{ .Publish }} {{ end }}
+</head>
+
+<body>
+    <header class="header">
+        <div class="header__inner">
+            <a href="/">
+                <img class="logo" src="/icon.png" width="44px" height="44px" alt=Logo>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="https://ddp.im">DDP</a></li>
+                    <li><a href="https://tmldb.le0n.dev/creator/NotLe0n">Mods</a></li>
+                    <li><a href="https://tmlapis.le0n.dev">tMLAPIs</a></li>
+                    <li><a href="https://tmldb.le0n.dev">tMLDB</a></li>
+                </ul>
+            </nav>
+        </span>
+    </header>
+    <main>
+        <div id="profile">
+            <h1>Leon Gies</h1>
+            <p>NotLe0n</p>
+            <a href="https://github.com/NotLe0n" target="_blank" rel="me noopener" title="Github" id="github-link">
+                {{ with resources.Get "svg/github.svg" | minify }}
+                    {{ .Content | safeHTML }}
+                {{ end }}
+            </a>
+        </div>
+        <div id="projects">
+            <h1>Meine Projekte</h1>
+            <div id="projects-container">
+                {{ range page.Pages }}
+                    {{ partial "project-card.html" . }}
+                {{ end }}
+            </div>
+        </div>
+    </main>
+    <footer class="footer"></footer>
+</body>
+
+</html>
