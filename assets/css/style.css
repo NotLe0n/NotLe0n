@@ -3,10 +3,10 @@
 :root {
     --logo-size: 44px;
     --header-height: calc(var(--logo-size) + 40px);
-    --header-col: light-dark(#edeff1, #1b1c1d);
+    --header-col: #1b1c1d;
     --hero-height: clamp(300px, calc(25vw - var(--header-height)), 600px);
-    --bg-col: light-dark(#fff, #232425);
-    --text-col: light-dark(#222, #a9a9b3);
+    --bg-col: #232425;
+    --text-col: #a9a9b3;
     color-scheme: dark light;
 }
 
@@ -27,10 +27,6 @@ body {
 [data-theme=dark] .code-toolbar .toolbar-item a {
     background: #3b3d42;
     color: inherit
-}
-
-[data-theme=light] .code-toolbar .toolbar-item a {
-    background: #eaeaea
 }
 
 .header {
@@ -90,12 +86,12 @@ nav a {
 }
 
 main {
-    display: grid;
     height: calc(100vh - var(--header-height));
-    overflow: auto;
-    
+    display: grid;
     grid-template-rows: var(--hero-height) 1fr;
     justify-content: center;
+    gap: 2rem;
+    overflow: auto;
 }
 
 #profile {
@@ -154,6 +150,7 @@ main {
     overflow: hidden;
     text-decoration: none;
     background-color: #3b3d42;
+    transition: color 400ms, border-color 400ms;
 }
 
 .project-card[href]:hover {
